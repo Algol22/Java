@@ -2,7 +2,7 @@ package com.company;
 
 public class Main {
 
-    public static int[] b = {1,2,3,4,5,2,8,9,10,11,12,13};
+    public static int[] b = {1,2,3,4,5,6,8,9,10,11,12,13,13};
 
     public static boolean check(int [] nums){
         boolean outcome=true;
